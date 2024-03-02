@@ -1,0 +1,12 @@
+C:\repos\IMU.Perfomance\IMU.Perfomance.Data\bin\Debug\IMU.Perfomance.Data.dacpac
+C:\repos\IMU.Perfomance\IMU.Perfomance.Data\bin\Debug\IMU.Perfomance.Data.dll
+C:\repos\IMU.Perfomance\IMU.Perfomance.Data\bin\Debug\IMU.Perfomance.Data.pdb
+C:\repos\IMU.Perfomance\IMU.Perfomance.Data\obj\Debug\IMU.Perfomance.Data.sqlproj.AssemblyReference.cache
+C:\repos\IMU.Perfomance\IMU.Perfomance.Data\obj\Debug\IMU.Perfomance.Data.dll
+C:\repos\IMU.Perfomance\IMU.Perfomance.Data\obj\Debug\IMU.Perfomance.Data.pdb
+C:\IMU.Perfomance\IMU.Perfomance.Data\bin\Debug\IMU.Perfomance.Data.dacpac
+C:\IMU.Perfomance\IMU.Perfomance.Data\bin\Debug\IMU.Perfomance.Data.dll
+C:\IMU.Perfomance\IMU.Perfomance.Data\bin\Debug\IMU.Perfomance.Data.pdb
+C:\IMU.Perfomance\IMU.Perfomance.Data\obj\Debug\IMU.Perfomance.Data.sqlproj.AssemblyReference.cache
+C:\IMU.Perfomance\IMU.Perfomance.Data\obj\Debug\IMU.Perfomance.Data.dll
+C:\IMU.Perfomance\IMU.Perfomance.Data\obj\Debug\IMU.Perfomance.Data.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IMU.Perfomance.Api.props" />
+</Project>
